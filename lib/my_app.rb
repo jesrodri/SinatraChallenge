@@ -16,3 +16,7 @@ end
 get '/prs' do
   erb :prs
 end
+
+get '/academic' do
+  erb :academic
+end
